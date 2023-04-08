@@ -1,0 +1,110 @@
+.main-container{
+    width: 255px;
+}
+.key-pads{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.clear-btn{
+    background-color: #add8e6;
+    border-color: #add8e6;
+    border-width: 0px;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-left: 25px;
+    padding-bottom: 10px;
+    padding-right: 29px;
+    color: black;
+    font-weight: 600;
+    width: 99.11px;
+}
+.backspace-btn{
+    background-color: #add8e6;
+    border-color: #add8e6;
+    border-width: 0px;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-left: 18px;
+    padding-bottom: 10px;
+    padding-right: 16px;
+    font-weight: 600;
+}
+.divide-btn{
+    background-color: #add8e6;
+    border-color: #add8e6;
+    border-width: 0px;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-left: 23px;
+    padding-bottom: 10px;
+    padding-right: 18px;
+    font-weight: 600;
+    width: 44px;
+}
+.input-value{
+    border-radius: 5px;
+    border-width: 1px;
+    width: 100%;
+    font-weight: 700;
+    padding-left: 10px;
+}
+.calculator-btn{
+    background-color: #262834;
+    border-color: #262834;
+    border-width: 0px;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-left: 18px;
+    padding-bottom: 10px;
+    padding-right: 18px;
+    font-weight: 600;
+    color:#fff;
+}
+.operator-btn{
+    background-color: #add8e6;
+    color:#fff;
+    width: 43.94px;
+}
+.submit-btn{
+    background-color: #add8e6;
+    border-color: #add8e6;
+    border-width: 0px;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-left: 43px;
+    padding-bottom: 10px;
+    padding-right: 40px;
+    color: black;
+    font-weight: 600;
+    width: 99px;
+}
+.zero-btn{
+    background-color: #add8e6;
+    border-color: #add8e6;
+    border-width: 0px;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-left: 17px;
+    padding-bottom: 10px;
+    padding-right: 17px;
+    font-weight: 600;
+}
+.dot-btn{
+    background-color: #add8e6;
+    border-color: #add8e6;
+    border-width: 0px;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-left: 16px;
+    padding-bottom: 10px;
+    padding-right: 24px;
+    font-weight: 600;
+    width: 43.94px;
+}
+.calculator-container{
+    background-color: black;
+    padding: 10px;
+    width: 230px;
+    border-radius: 5px;
+}
